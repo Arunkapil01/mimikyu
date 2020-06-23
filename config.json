@@ -1,0 +1,33 @@
+
+
+{
+
+
+"prefix": "p-",
+"botOwner": "258961364939309056",
+"evalOwner": "261792945483546625",
+"patron": {
+  "server":"278135637293531136",
+  "role":"400911023265284097"
+},
+
+"typingtime": 10,
+"botlogchannel": "395909283490955264",
+"forwardBotDMsToOwner": true,
+
+"guideurl" : "https://github.com/ArunKapil01/Community/blob/master/README.md",
+"patreonurl" : "",
+  
+  
+"status": "online",
+"game": "h for help",
+"rotategame": true,
+"rotategametime": 30000,
+"streaming": true,
+"streamingurl": "http://www.twitch.tv/pikachudiscordbot",
+
+"serverinvite": "https://discord.gg/N7n2W2k",
+"botinvite": "https://discordapp.com/oauth2/authorize?client_id=698726224876273724&scope=bot&permissions=214695859",
+"botsdiscordpwinvite": "no",
+"discordbotsorginvite": "",
+"githubrepo": ""}
