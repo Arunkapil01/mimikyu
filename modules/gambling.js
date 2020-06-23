@@ -1,0 +1,3 @@
+exports.moduledata = {
+  "name": "Gambling"
+}
